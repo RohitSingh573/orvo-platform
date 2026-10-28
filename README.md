@@ -38,10 +38,9 @@ ORVO aims to connect opportunity discovery with learning and preparation, helpin
 
 #### Team Members
 
-1. Dheeraj Mandal
-2. Jatin Lawaniya
-3. Aakash Pal 
-4. Abhishek Tyagi
+1. Tarun bansal
+2. Rohit singh
+3. Siddharth Choudhary
 
 ## Future Scope
 
